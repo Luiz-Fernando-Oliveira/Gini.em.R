@@ -1,7 +1,7 @@
 # Gini.em.R
 Estimando um índice de Gini por Unidade da Federação brasileira usando R
 
-Segue o código e logo em seguida o gráfico gerado
+Segue o código e logo em seguida o gráfico gerado.
 
 # Bibliotecas
 library(PNADcIBGE)
